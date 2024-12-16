@@ -2,7 +2,9 @@
 
 ## 📚 App Structure
 
-The app is a simple iOS application designed to interact with a currency exchange service. Below is an overview of the app's main components:
+The app is a simple iOS application designed to interact with a currency exchange service. Here is the demostration link: 
+https://rmiteduau-my.sharepoint.com/:v:/g/personal/s3926655_rmit_edu_vn/Ea43JfHc5tJButEuHJLXxbEBJUYd9sh7tdoKG5ANbY7enA?e=azdhUC
+Below is an overview of the app's main components:
 
 ### **Core Files**
 
