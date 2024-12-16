@@ -43,6 +43,16 @@
 			path = CurrencyServiceTests;
 			sourceTree = "<group>";
 		};
+		C6D4171E2D10099600AA5965 /* Product Inventory Management */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Product Inventory Management";
+			sourceTree = "<group>";
+		};
+		C6D417222D1009F700AA5965 /* Array Manipulation and Missing Number Problem */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Array Manipulation and Missing Number Problem";
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +83,8 @@
 				C67326172D0F040100E5AE2B /* Currency Converter.app */,
 				C6D4170A2D0FF82000AA5965 /* CurrencyServiceTests.xctest */,
 				C6D4170B2D0FF82000AA5965 /* CurrencyServiceTests */,
+				C6D4171E2D10099600AA5965 /* Product Inventory Management */,
+				C6D417222D1009F700AA5965 /* Array Manipulation and Missing Number Problem */,
 			);
 			sourceTree = "<group>";
 		};
@@ -110,6 +122,8 @@
 			);
 			fileSystemSynchronizedGroups = (
 				C64106902D0C128400276C80 /* Currency Converter */,
+				C6D4171E2D10099600AA5965 /* Product Inventory Management */,
+				C6D417222D1009F700AA5965 /* Array Manipulation and Missing Number Problem */,
 			);
 			name = "Currency Converter";
 			packageProductDependencies = (
